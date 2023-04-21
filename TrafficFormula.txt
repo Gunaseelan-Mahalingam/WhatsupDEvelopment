@@ -1,0 +1,17 @@
+Six Months Average:
+
+=Average(B1:G1)
+
+Three Month Average:
+
+=Average(E1:G1)
+
+Traffic Qualification Formula:
+
+=IF(MAX(H1:I1)>24999,1,0)
+
+1 means Qualified, 0 means DQ
+
+Six Months Average Formula Copy - Paste in H1
+
+Three Months Average Formula Copy - Paste in I1
