@@ -15,3 +15,5 @@ Traffic Qualification Formula:
 Six Months Average Formula Copy - Paste in H1
 
 Three Months Average Formula Copy - Paste in I1
+
+Traffic level changed
